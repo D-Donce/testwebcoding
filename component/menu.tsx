@@ -12,7 +12,11 @@ export default function Menu () {
             </Link> 
             <div></div>
             <Link href="/App">
-                <a>test</a>
+                <a>table</a>
+            </Link> 
+            <div></div>
+            <Link href="/App">
+                <a>login/register</a>
             </Link> 
         </nav>
         // <nav>
